@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I built an ETL pipeline that processed salary data, adjusted it for cost of living, and stored the results in cloud storage. The project required cleaning messy data and standardizing formats across different sources. This experience taught me valuable skills in data processing while showing how raw information can be transformed into meaningful insights.
